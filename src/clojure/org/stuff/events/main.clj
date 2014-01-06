@@ -10,4 +10,5 @@
     (on-ui
      (set-content-view! a
       (make-ui [:linear-layout {}
-                [:text-view {:text "Hello from Clojure!"}]])))))
+                [:text-view {:text "Hello from benmathes!"}]
+                ])))))
